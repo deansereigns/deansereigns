@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on React Applications.
-- 📫 How to reach me on mayanktahkur865019@gmail.com
+- 📫 How to reach me on mayankthakur865019@gmail.com
 
 <!---
 deansereigns/deansereigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
